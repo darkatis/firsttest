@@ -1,0 +1,3 @@
+turnleft
+turnreigt
+godown
